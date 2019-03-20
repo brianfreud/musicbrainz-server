@@ -50,6 +50,7 @@ RUN apt-get update && \
         libexpat1-dev \
         libicu-dev \
         libicu60 \
+        libjson-xs-perl \
         libperl-dev \
         libpq-dev \
         libpq5 \
